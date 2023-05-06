@@ -1,0 +1,124 @@
+
+
+
+body{
+    font-family:arial,sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:rgb(62, 62, 219);
+    
+}
+nav{
+    width: 100vw;
+    height: 110px;
+    background:linear-gradient(to right,white 50%,white 30%);
+    display: flex;
+}
+.container{
+    
+
+}
+img{
+    width: 50vw;
+    height: auto;
+    margin-top:50px ;
+    margin-left: 20px;
+    
+}
+.child1{
+    display: flex;
+    width: 90vw;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 1px 0 5px 20px ;
+    color: rgb(90, 71, 71);
+}
+.child2{
+    width: 30vw;
+    height: 170px;
+   margin-left:10%;
+   margin-top: -13px;
+}
+.search{
+    width: 20vw;
+    height: 150px;
+    margin: 0 0 5px 20%;
+  
+}
+.photos{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-left: 20px;
+}
+.ex{
+    width: 20%;
+    height: auto;
+    border-radius: 40%;
+    margin-left: 40px;
+    
+}
+
+
+        body{
+            background-color:beige;
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            text-align: center;
+      
+        }
+        h2{
+        
+            background-color: rgb(71, 122, 88);
+             border-radius: 2px;
+             color: rgb(243, 208, 142);
+            width: 100%;
+             font-size: xx-large;
+          }
+          .cow{
+            width: 100vw;
+            height: auto;
+            margin: 10px 0 10px 10px;
+          }
+        .product{
+            display: inline-block;
+            width: 90vw;
+            height: auto;
+            text-align: center;
+            margin: 10px 0px 5px 70px;
+            border-radius: 2px;
+            background-color:white;
+            box-shadow: 2px 4px 4px 4px rgb(165, 161, 161) ;
+
+            
+        
+        }
+        .class{
+            margin: 10px 2px 0 2px;
+            font-size: xx-large;
+        }
+        p{
+            color:aqua;
+            font-size:xx-large;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            width: 93.7%;
+            height: auto;
+            background-color:darkgray;
+           
+            align-items: center;
+            box-shadow: 0px 0px 0px 1px gray ;
+            margin: 300px 2px 0 2px;
+        }
+        .product h2 {
+            margin-top: 10px;
+            font-size: 20px;
+        }
+        .product p {
+            margin-top: 50px;
+            font-size: 10px;
+        }
+
+
+        
